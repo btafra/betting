@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineBetting", "OnlineBetting\OnlineBetting.csproj", "{24DB83FA-1702-46FD-80B8-165EF93EDFBC}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "BettingDatabase", "BettingDatabase\BettingDatabase.sqlproj", "{05F005A6-E803-4518-8874-0DF207BECE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24DB83FA-1702-46FD-80B8-165EF93EDFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DB83FA-1702-46FD-80B8-165EF93EDFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DB83FA-1702-46FD-80B8-165EF93EDFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DB83FA-1702-46FD-80B8-165EF93EDFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F005A6-E803-4518-8874-0DF207BECE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F005A6-E803-4518-8874-0DF207BECE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F005A6-E803-4518-8874-0DF207BECE12}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{05F005A6-E803-4518-8874-0DF207BECE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F005A6-E803-4518-8874-0DF207BECE12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F005A6-E803-4518-8874-0DF207BECE12}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70616F8D-C2C4-4923-82F5-E5441A41E7FB}
+	EndGlobalSection
+EndGlobal
